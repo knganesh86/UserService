@@ -1,6 +1,7 @@
-package com.example.userserviceapi.models;
+package com.example.userserviceapi.repos;
 
 
+import com.example.userserviceapi.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
